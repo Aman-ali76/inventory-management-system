@@ -1,10 +1,8 @@
-aman,12345678,0
+user,user,0
 amanali,amanali12,1
-admin,admin123,1
+admin,admin,1
 zain,12345678,0
 admin13,1234tyuii,0
-admin13w,1234tyuii,0
 newadmin,Password,0
 muzamil,password,0
-muzmailshabeer00,MuZAMiL00,0
 tester,12345678,0
