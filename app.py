@@ -428,7 +428,7 @@ class UserPage(Page):
 
             st.markdown(f"**Total Purchases:** {len(user_purchases)}")
             st.markdown(f"**Total Items Bought:** {total_items}")
-            st.markdown(f"**Total Spent:** Rs. {total_spent:.2f}")
+            st.markdown(f"**Total Spent:** $ {total_spent:.2f}")
 
             df = pd.DataFrame(user_purchases)
             st.bar_chart(df.groupby("item_name")["cost"].sum())
