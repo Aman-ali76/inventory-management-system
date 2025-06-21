@@ -73,6 +73,13 @@ inventory-managment-system/
 │
 ├── app.py                      # Main app logic
 ├── requirements.txt            # Dependency list
+├── README.md                   # Project overview and instructions
+├── images/                     # Screenshots used in README
+│   ├── login.png
+│   ├── inventory.png
+│   ├── admin.png
+│   ├── stock.png
+│   └── stockchart.png
 └── src/                        # All class-based backend modules
     ├── user_manager.py
     ├── inventory_manager.py
