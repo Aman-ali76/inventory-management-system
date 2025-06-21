@@ -1,0 +1,15 @@
+admin,apple,20,4.0,80.0,11 June 2025,11,06
+None,apple,100,4.0,400.0,12 June 2025,12,06
+aman,apple,1,4.0,4.0,12 June 2025,12,06
+aman,banana,20,3.3,66.0,12 June 2025,12,06
+aman,apple,22,4.0,88.0,12 June 2025,12,06
+admin,banana,10,21.0,210.0,20 June 2025,20,06
+None,banana,20,21.0,420.0,20 June 2025,20,06
+None,banana,970,21.0,20370.0,20 June 2025,20,06
+None,banana,100,21.0,2100.0,20 June 2025,20,06
+aman,laptop,400,43.0,17200.0,20 June 2025,20,06
+tester,banana,1,21.0,21.0,20 June 2025,20,06
+tester,banana,120,21.0,2520.0,20 June 2025,20,06
+tester,orange,22,22.99,505.78,20 June 2025,20,06
+tester,melon,30,3.2,96.0,20 June 2025,20,06
+tester,kivi,400,9.9,3960.0,20 June 2025,20,06
